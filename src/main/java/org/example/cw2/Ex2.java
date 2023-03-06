@@ -8,7 +8,7 @@ public class Ex2 {
         int k = 0;
         int a = sc.nextInt();
         int b = sc.nextInt();
-        while (b != 0){
+        while (b != 0) {
             if (a > 0 && b < 0) {
                 k++;
             }
